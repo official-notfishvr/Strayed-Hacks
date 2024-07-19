@@ -10,11 +10,11 @@ https://discord.gg/3aCjk28ZGa
 
 [Main Tab](https://raw.githubusercontent.com/official-notfishvr/Strayed-Hacks/main/Pics/Main.png): 
 
-- Spawn Bullet
-- Rocket
-- Inf Ammo
-- Place C4
-- Dupe
+- Spawn Bullet [Testing]
+- Rocket [Testing]
+- Inf Ammo [Testing]
+- Place C4 [NW]
+- Dupe [NW]
 - God Mode [NW]
 - Open All Doors [NW]
 

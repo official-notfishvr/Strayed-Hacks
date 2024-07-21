@@ -1,4 +1,4 @@
-# it shows all of the Vctims of Strayed Menu!
+# It Shows All of the Vctims of Strayed Menu!
 
 Full List:
 

@@ -35,7 +35,7 @@ https://discord.gg/3aCjk28ZGa
 - **Suicide:** you kill your self.
 - **Log Item:** logs the Item your holding.
 - **Items** 
- - **Give AK** 
+ -- **Give AK** 
  - **Give C4** 
  - **Give Mini Shotgun** 
  - **Give Metal Axe** 

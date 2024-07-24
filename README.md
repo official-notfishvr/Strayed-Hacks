@@ -13,6 +13,7 @@ https://discord.gg/3aCjk28ZGa
 
 - **Spawn Bullet**: allows you to spawn bullets using a bow. For others, it sounds like a bow, but for you, it sounds like a gun and deals damage like one.
 - **Infinite Ammo [NW]**: gives you Infinite ammo.
+- **God Mode [NW]**: you cant die.
 
 [Visual Tab](<https://raw.githubusercontent.com/official-notfishvr/Strayed-Hacks/main/Pics/Visual.png>)
 
@@ -30,5 +31,13 @@ https://discord.gg/3aCjk28ZGa
 
 - **Game Timescale**: Adjust the game timescale using a slider and a set button.
 - **Reset Timescale**: Reset the game timescale.
-- **Spoof:** spoof your game 
-- **Suicide:** you kill your self
+- **Spoof:** spoof your game.
+- **Suicide:** you kill your self.
+- **Log Item:** logs the Item your holding.
+- **Items** 
+ - **Give AK** 
+ - **Give C4** 
+ - **Give Mini Shotgun** 
+ - **Give Metal Axe** 
+ - **Give Rifle Ammo**
+ - **Give Gun Powder**

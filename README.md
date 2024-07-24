@@ -34,8 +34,8 @@ https://discord.gg/3aCjk28ZGa
 - **Spoof:** spoof your game.
 - **Suicide:** you kill your self.
 - **Log Item:** logs the Item your holding.
-- **Items** 
- -- **Give AK** 
+- **Items:** 
+ - **Give AK** 
  - **Give C4** 
  - **Give Mini Shotgun** 
  - **Give Metal Axe** 

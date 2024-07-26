@@ -9,35 +9,38 @@ https://discord.gg/3aCjk28ZGa
 # Features
 
 
-[Main Tab](<https://raw.githubusercontent.com/official-notfishvr/Strayed-Hacks/main/Pics/Main.png>)
+[Main Tab](<https://raw.githubusercontent.com/official-notfishvr/Strayed-Hacks/main/Pics/Main.png>):
 
 - **Spawn Bullet**: allows you to spawn bullets using a bow. For others, it sounds like a bow, but for you, it sounds like a gun and deals damage like one.
 - **Infinite Ammo [NW]**: gives you Infinite ammo.
 - **God Mode [NW]**: you cant die.
+- **No Bag Time:** theres no Bag Time.
+- **Auto Auth Bases [NW]:** you can open other ppl doors to there bases.
 
-[Visual Tab](<https://raw.githubusercontent.com/official-notfishvr/Strayed-Hacks/main/Pics/Visual.png>)
+[Visual Tab](<https://raw.githubusercontent.com/official-notfishvr/Strayed-Hacks/main/Pics/Visual.png>):
 
 - **FOV Changer**: Adjust the FOV using a slider.
 - **Time of Day**: Change the time of day using a slider and a set button.
 
-[Movement Tab](<https://raw.githubusercontent.com/official-notfishvr/Strayed-Hacks/main/Pics/Movement.png>)
+[Movement Tab](<https://raw.githubusercontent.com/official-notfishvr/Strayed-Hacks/main/Pics/Movement.png>):
 
 - **Up**: Move up using a slider and a go up button.
 - **Down**: Move down using a slider and a go down button.
 - **Left**: Move left using a slider and a go left button.
 - **Right**: Move right using a slider and a go right button.
 
-[Misc Tab](<https://raw.githubusercontent.com/official-notfishvr/Strayed-Hacks/main/Pics/Misc.png>)
+[Misc Tab](<https://raw.githubusercontent.com/official-notfishvr/Strayed-Hacks/main/Pics/Misc.png>):
 
 - **Game Timescale**: Adjust the game timescale using a slider and a set button.
-- **Reset Timescale**: Reset the game timescale.
 - **Spoof:** spoof your game.
 - **Suicide:** you kill your self.
 - **Log Item:** logs the Item your holding.
-- **Items:** 
+- **Open All Doors [NW]:** all doors will get opned.
+- **Items** 
  - **Give AK** 
  - **Give C4** 
  - **Give Mini Shotgun** 
  - **Give Metal Axe** 
  - **Give Rifle Ammo**
  - **Give Gun Powder**
+ - **Give Med Sticks**

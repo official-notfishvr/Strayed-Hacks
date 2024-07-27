@@ -42,7 +42,7 @@ https://discord.gg/3aCjk28ZGa
  - **Give RPG** 
  - **Give M16** 
  - **Give Mini Shotgun** 
- - **Give Mini Pistol** 
+ - **Give Pistol** 
  - **Give Metal Pick** 
  - **Give Metal Axe** 
  - **Give Rifle Ammo**

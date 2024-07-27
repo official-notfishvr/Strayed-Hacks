@@ -14,7 +14,7 @@ https://discord.gg/3aCjk28ZGa
 - **Spawn Bullet**: allows you to spawn bullets using a bow. For others, it sounds like a bow, but for you, it sounds like a gun and deals damage like one.
 - **Infinite Ammo [NW]**: gives you Infinite ammo.
 - **God Mode [NW]**: you cant die.
-- **No Bag Time:** theres no Bag Time.
+- **No Bag Time [NW]:** theres no Bag Time.
 - **Auto Auth Bases [NW]:** you can open other ppl doors to there bases.
 
 [Visual Tab](<https://raw.githubusercontent.com/official-notfishvr/Strayed-Hacks/main/Pics/Visual.png>):
@@ -39,7 +39,11 @@ https://discord.gg/3aCjk28ZGa
 - **Items** 
  - **Give AK** 
  - **Give C4** 
+ - **Give RPG** 
+ - **Give M16** 
  - **Give Mini Shotgun** 
+ - **Give Mini Pistol** 
+ - **Give Metal Pick** 
  - **Give Metal Axe** 
  - **Give Rifle Ammo**
  - **Give Gun Powder**

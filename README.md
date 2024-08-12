@@ -15,7 +15,6 @@ https://discord.gg/3aCjk28ZGa
 - **Infinite Ammo [NW]**: gives you Infinite ammo.
 - **God Mode [NW]**: you cant die.
 - **No Bag Time [NW]:** theres no Bag Time.
-- **Auto Auth Bases [NW]:** you can open other ppl doors to there bases.
 
 [Visual Tab](<https://raw.githubusercontent.com/official-notfishvr/Strayed-Hacks/main/Pics/Visual.png>):
 
@@ -35,8 +34,7 @@ https://discord.gg/3aCjk28ZGa
 - **Spoof:** spoof your game.
 - **Suicide:** you kill your self.
 - **Log Item:** logs the Item your holding.
-- **Open All Doors [NW]:** all doors will get opned.
-- **Items** 
+- **Items Tools/Guns** [All Patched]
  - **Give AK** 
  - **Give C4** 
  - **Give RPG** 
@@ -46,5 +44,10 @@ https://discord.gg/3aCjk28ZGa
  - **Give Metal Pick** 
  - **Give Metal Axe** 
  - **Give Rifle Ammo**
- - **Give Gun Powder**
- - **Give Med Sticks**
+- **Items Building** [All Patched]
+ - **Give Metal Double Door**
+ - **Give Metal Door**
+ - **Give Turret**
+ - **Give Smart Lock**
+ - **Give Solar Pannel**
+ - **Give Battery**

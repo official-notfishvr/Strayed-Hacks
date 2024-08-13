@@ -35,19 +35,19 @@ https://discord.gg/3aCjk28ZGa
 - **Suicide:** you kill your self.
 - **Log Item:** logs the Item your holding.
 - **Items Tools/Guns** [All Patched]
- - **Give AK** 
- - **Give C4** 
- - **Give RPG** 
- - **Give M16** 
- - **Give Mini Shotgun** 
- - **Give Pistol** 
- - **Give Metal Pick** 
- - **Give Metal Axe** 
- - **Give Rifle Ammo**
+  - **Give AK** 
+  - **Give C4** 
+  - **Give RPG** 
+  - **Give M16** 
+  - **Give Mini Shotgun** 
+  - **Give Pistol** 
+  - **Give Metal Pick** 
+  - **Give Metal Axe** 
+  - **Give Rifle Ammo**
 - **Items Building** [All Patched]
- - **Give Metal Double Door**
- - **Give Metal Door**
- - **Give Turret**
- - **Give Smart Lock**
+  - **Give Metal Double Door**
+  - **Give Metal Door**
+  - **Give Turret**
+  - **Give Smart Lock**
  - **Give Solar Pannel**
  - **Give Battery**

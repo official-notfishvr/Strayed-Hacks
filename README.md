@@ -49,5 +49,5 @@ https://discord.gg/3aCjk28ZGa
   - **Give Metal Door**
   - **Give Turret**
   - **Give Smart Lock**
- - **Give Solar Pannel**
- - **Give Battery**
+  - **Give Solar Pannel**
+  - **Give Battery**

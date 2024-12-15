@@ -11,9 +11,8 @@ https://discord.gg/3aCjk28ZGa
 
 [Main Tab](<https://raw.githubusercontent.com/official-notfishvr/Strayed-Hacks/main/Pics/Main.png>):
 
-- **Add Player To Team [W?]**: you can add ppl to your team/see where they are.
+- **Add Player To Team [W?]**: you can add someone to your team/see where they are.
 - **Game Timescale**: Adjust the game timescale using a slider and a set button.
-- **Spoof [NW?]:** spoof your game.
 - **Log Item:** logs the Item your holding.
 - **Get Player Info:** gets the info about YOUR player.
 - **Xray:** it moves up structures [on load]. [pic](<https://cdn.discordapp.com/attachments/1264471634258165760/1288276728111693865/490CAF43-80D1-4EDA-9BF2-E5CB73F42C09.png?ex=66f7e473&is=66f692f3&hm=31246b3e6f3b41e23463261b901672e805a16f37990649792aa7a5ea65197afd&>)
@@ -25,10 +24,12 @@ https://discord.gg/3aCjk28ZGa
 
 [Movement Tab](<https://raw.githubusercontent.com/official-notfishvr/Strayed-Hacks/main/Pics/Movement.png>):
 
-- **Up**: Move up using a slider and a go up button.
-- **Down**: Move down using a slider and a go down button.
-- **Left**: Move left using a slider and a go left button.
-- **Right**: Move right using a slider and a go right button.
+- **Up**: Move up.
+- **Down**: Move down.
+- **Left**: Move left.
+- **Right**: Move right
+- **Forward**: Move forward.
+- **Backward**: Move backward.
 
 [Combat Tab](<https://raw.githubusercontent.com/official-notfishvr/Strayed-Hacks/main/Pics/Combat.png>):
 
@@ -36,3 +37,8 @@ https://discord.gg/3aCjk28ZGa
 - **Spawn Bullet**: allows you to spawn bullets using a bow. For others, it sounds like a bow, but for you, it sounds like a gun and deals damage like one.
 - **Infinite Ammo [NW]**: gives you Infinite ammo.
 - **Suicide:** you kill your self.
+
+[Lifetime Tab](<https://raw.githubusercontent.com/official-notfishvr/Strayed-Hacks/main/Pics/Lifetime.png>):
+
+- **Temp Spwan Point:** classified
+- **Change Helicopter Settings** you can change "Starting Speed", "Target Speed" and "Duration" of the helicopter

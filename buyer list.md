@@ -1,19 +1,27 @@
-1 - thunderstormrr/𝔗𝔥𝔲𝔫𝔡𝔢𝔯𝔖𝔱𝔬𝔯𝔪
+Lifetime:
+cmax9110805
+perkins8447
+doosaac
+flex_daber12
+_maxiwaxi
+nave6146
+rufluf
 
-2 - shnieder_._/Dung
 
-3 - hudmoney/Hudmoney
+old:
 
-4 - _maxiwaxi/max
-
-5 - nave6146/Nave
-
-6 - rizzlord0001/rizzlord0001
-
-7 - rufluf/Rufluf
-
-8 - xgaf/venix
-
-9 - owen123_8816/owen123
-
-10 - jenjed_real/👑JenJed👑
+fogdog.
+big_cheese1140
+ifjn
+skellybones0
+gogobongai7000
+snowyy1_1
+hudmoney
+charizardex10
+owen123_8816
+0phase
+silver_.131
+aj_imhim.
+uknown8206
+pooptoday
+witherstormer
